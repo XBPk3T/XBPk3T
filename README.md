@@ -6,4 +6,4 @@
 
 ⏰ Updated on Sun, 21 Apr 2024 00:05:27 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+[![Progress Bar CI](https://github.com/hxhac/hxhac/actions/workflows/main.yml/badge.svg)](https://github.com/hxhac/hxhac/actions/workflows/main.yml)
