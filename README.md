@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.33 %
+⏳ Year progress { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.60 %
 
 ---
 
-⏰ Updated on Sun, 21 Apr 2024 00:05:27 GMT
+⏰ Updated on Mon, 22 Apr 2024 00:05:36 GMT
 
-[![Progress Bar CI](https://github.com/hxhac/hxhac/actions/workflows/main.yml/badge.svg)](https://github.com/hxhac/hxhac/actions/workflows/main.yml)
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
